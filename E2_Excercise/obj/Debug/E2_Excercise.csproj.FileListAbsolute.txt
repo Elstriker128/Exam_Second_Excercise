@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\bin\Debug\E2_Excercise.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\bin\Debug\E2_Excercise.exe
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\bin\Debug\E2_Excercise.pdb
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\obj\Debug\E2_Excercise.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\obj\Debug\E2_Excercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\obj\Debug\E2_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\obj\Debug\E2_Excercise.exe
+C:\Users\User\OneDrive\Desktop\VSP\E2_Excercise\obj\Debug\E2_Excercise.pdb
